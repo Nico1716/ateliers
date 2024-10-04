@@ -1,0 +1,6 @@
+date,heure,volume_trafic,vitesse_moyenne,condition_meteo
+2024-01-10,08:00,300,40,Pluie
+2024-01-10,09:00,500,35,Pluie
+2024-01-10,10:00,200,50,Nuageux
+2024-01-10,11:00,400,45,Ensoleillé
+2024-01-10,12:00,600,30,Ensoleillé
